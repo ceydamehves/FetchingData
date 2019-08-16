@@ -1,32 +1,21 @@
 {
-    "words": [
-        {
-            "tr":"türkçe sözler burada olacak",
-            "en": "turkish words are here"
-        },
-        {
-            "tr":"asder buradaadsasd olacak",
-            "en": "turkish words are here"
-        },
-        {
-            "tr":"türkçe sadsadsözler burada olacak",
-            "en": "tadsadsdasurkish words are here"
-        },
-        {
-            "tr":"türkçe sözler adsdsaburada olacak",
-            "en": "turkish wordsadsads are here"
-        },
-        {
-            "tr":"türkçe sözler burada olacak",
-            "en": "turkish words are here"
-        },
-        {
-            "tr":"türkçe sözler burada olacak",
-            "en": "turkish words are here"
-        },
-        {
-            "tr":"türkçe sözler burada olacak",
-            "en": "turkish words are here"
-        }
-    ]
+    "words":{ 
+            "months":{
+                "8":{
+                    "15": {
+                        "tr":"Türkçe",
+                        "en": "İngilizce"
+                    },
+                    "16": {
+                        "tr":"Türkçe2",
+                        "en": "İngilizce2"
+                    },
+                    "17": {
+                        "tr":"Türkçe3",
+                        "en": "İngilizce3"
+
+                    }
+                }
+            }
+    }
 }
